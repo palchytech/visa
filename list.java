@@ -5,3 +5,5 @@ Paul
 Joy
 Blessed
 Destiny
+Favor
+Success
